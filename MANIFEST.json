@@ -1,0 +1,794 @@
+[
+  {
+    "name": "agent-handoff-specs",
+    "category": "software-development",
+    "source": "local-or-hub",
+    "path": "software-development/agent-handoff-specs",
+    "files": 3,
+    "bytes": 20319
+  },
+  {
+    "name": "airtable",
+    "category": "productivity",
+    "source": "builtin-modified",
+    "path": "productivity/airtable",
+    "files": 1,
+    "bytes": 11314
+  },
+  {
+    "name": "apple-notes",
+    "category": "apple",
+    "source": "builtin-modified",
+    "path": "apple/apple-notes",
+    "files": 1,
+    "bytes": 2394
+  },
+  {
+    "name": "apple-reminders",
+    "category": "apple",
+    "source": "builtin-modified",
+    "path": "apple/apple-reminders",
+    "files": 1,
+    "bytes": 3606
+  },
+  {
+    "name": "architecture-audit",
+    "category": "software-development",
+    "source": "local-or-hub",
+    "path": "software-development/architecture-audit",
+    "files": 2,
+    "bytes": 17967
+  },
+  {
+    "name": "architecture-diagram",
+    "category": "creative",
+    "source": "builtin-modified",
+    "path": "creative/architecture-diagram",
+    "files": 2,
+    "bytes": 18313
+  },
+  {
+    "name": "arxiv",
+    "category": "research",
+    "source": "builtin-modified",
+    "path": "research/arxiv",
+    "files": 2,
+    "bytes": 14333
+  },
+  {
+    "name": "ascii-video",
+    "category": "creative",
+    "source": "builtin-modified",
+    "path": "creative/ascii-video",
+    "files": 10,
+    "bytes": 322333
+  },
+  {
+    "name": "audit-robustness-probes",
+    "category": "devops",
+    "source": "local-or-hub",
+    "path": "devops/audit-robustness-probes",
+    "files": 3,
+    "bytes": 49940
+  },
+  {
+    "name": "backend-api-testing",
+    "category": "",
+    "source": "local-or-hub",
+    "path": "backend-api-testing",
+    "files": 5,
+    "bytes": 33663
+  },
+  {
+    "name": "baoyu-infographic",
+    "category": "creative",
+    "source": "builtin-modified",
+    "path": "creative/baoyu-infographic",
+    "files": 47,
+    "bytes": 71202
+  },
+  {
+    "name": "better-accessibility",
+    "category": "creative",
+    "source": "local-or-hub",
+    "path": "creative/reference-driven-ui/references/jakub/better-accessibility",
+    "files": 8,
+    "bytes": 36834
+  },
+  {
+    "name": "better-colors",
+    "category": "creative",
+    "source": "local-or-hub",
+    "path": "creative/reference-driven-ui/references/jakub/better-colors",
+    "files": 8,
+    "bytes": 39126
+  },
+  {
+    "name": "better-interface",
+    "category": "creative",
+    "source": "local-or-hub",
+    "path": "creative/reference-driven-ui/references/jakub/better-interface",
+    "files": 3,
+    "bytes": 11283
+  },
+  {
+    "name": "better-layout",
+    "category": "creative",
+    "source": "local-or-hub",
+    "path": "creative/reference-driven-ui/references/jakub/better-layout",
+    "files": 4,
+    "bytes": 18666
+  },
+  {
+    "name": "better-typography",
+    "category": "creative",
+    "source": "local-or-hub",
+    "path": "creative/reference-driven-ui/references/jakub/better-typography",
+    "files": 8,
+    "bytes": 30042
+  },
+  {
+    "name": "better-ui",
+    "category": "creative",
+    "source": "local-or-hub",
+    "path": "creative/reference-driven-ui/references/jakub/better-ui",
+    "files": 8,
+    "bytes": 33100
+  },
+  {
+    "name": "better-writing",
+    "category": "creative",
+    "source": "local-or-hub",
+    "path": "creative/reference-driven-ui/references/jakub/better-writing",
+    "files": 3,
+    "bytes": 12583
+  },
+  {
+    "name": "blocked-page-recovery",
+    "category": "web",
+    "source": "builtin-modified",
+    "path": "web/blocked-page-recovery",
+    "files": 2,
+    "bytes": 13656
+  },
+  {
+    "name": "box",
+    "category": "productivity",
+    "source": "builtin-modified",
+    "path": "productivity/box",
+    "files": 11,
+    "bytes": 62708
+  },
+  {
+    "name": "break",
+    "category": "creative",
+    "source": "local-or-hub",
+    "path": "creative/reference-driven-ui/references/jakub/break",
+    "files": 3,
+    "bytes": 10857
+  },
+  {
+    "name": "browser-automation",
+    "category": "web",
+    "source": "local-or-hub",
+    "path": "web/browser-automation",
+    "files": 3,
+    "bytes": 8663
+  },
+  {
+    "name": "browser-harness-windows",
+    "category": "devops",
+    "source": "local-or-hub",
+    "path": "devops/browser-harness-windows",
+    "files": 1,
+    "bytes": 3421
+  },
+  {
+    "name": "bug-bounty-engagement",
+    "category": "research",
+    "source": "local-or-hub",
+    "path": "research/bug-bounty-engagement",
+    "files": 5,
+    "bytes": 48549
+  },
+  {
+    "name": "build-design",
+    "category": "creative",
+    "source": "local-or-hub",
+    "path": "creative/reference-driven-ui/references/jakub/build-design",
+    "files": 3,
+    "bytes": 8851
+  },
+  {
+    "name": "cdp-automation-engineering",
+    "category": "software-development",
+    "source": "local-or-hub",
+    "path": "software-development/cdp-automation-engineering",
+    "files": 3,
+    "bytes": 12253
+  },
+  {
+    "name": "cdp-browser-attach",
+    "category": "software-development",
+    "source": "local-or-hub",
+    "path": "software-development/cdp-browser-attach",
+    "files": 1,
+    "bytes": 6212
+  },
+  {
+    "name": "claude-code",
+    "category": "autonomous-ai-agents",
+    "source": "builtin-modified",
+    "path": "autonomous-ai-agents/claude-code",
+    "files": 1,
+    "bytes": 35175
+  },
+  {
+    "name": "claude-design",
+    "category": "creative",
+    "source": "builtin-modified",
+    "path": "creative/claude-design",
+    "files": 4,
+    "bytes": 82417
+  },
+  {
+    "name": "codebase-inspection",
+    "category": "software-development",
+    "source": "builtin-modified",
+    "path": "software-development/codebase-inspection",
+    "files": 1,
+    "bytes": 3612
+  },
+  {
+    "name": "codex",
+    "category": "autonomous-ai-agents",
+    "source": "builtin-modified",
+    "path": "autonomous-ai-agents/codex",
+    "files": 1,
+    "bytes": 5852
+  },
+  {
+    "name": "competitor-news-monitor",
+    "category": "research",
+    "source": "builtin-modified",
+    "path": "research/competitor-news-monitor",
+    "files": 1,
+    "bytes": 4619
+  },
+  {
+    "name": "computer-use",
+    "category": "autonomous-ai-agents",
+    "source": "builtin-modified",
+    "path": "autonomous-ai-agents/computer-use",
+    "files": 1,
+    "bytes": 18054
+  },
+  {
+    "name": "contributing-to-open-source",
+    "category": "software-development",
+    "source": "local-or-hub",
+    "path": "software-development/contributing-to-open-source",
+    "files": 3,
+    "bytes": 13487
+  },
+  {
+    "name": "defensive-responsive-layout",
+    "category": "software-development",
+    "source": "local-or-hub",
+    "path": "software-development/defensive-responsive-layout",
+    "files": 2,
+    "bytes": 26312
+  },
+  {
+    "name": "delegated-implementation-guardrails",
+    "category": "devops",
+    "source": "local-or-hub",
+    "path": "devops/delegated-implementation-guardrails",
+    "files": 1,
+    "bytes": 3164
+  },
+  {
+    "name": "design-md",
+    "category": "creative",
+    "source": "builtin-modified",
+    "path": "creative/design-md",
+    "files": 2,
+    "bytes": 11043
+  },
+  {
+    "name": "document-to-action-items",
+    "category": "productivity",
+    "source": "builtin-modified",
+    "path": "productivity/document-to-action-items",
+    "files": 1,
+    "bytes": 3910
+  },
+  {
+    "name": "docx",
+    "category": "productivity",
+    "source": "builtin-modified",
+    "path": "productivity/docx",
+    "files": 12,
+    "bytes": 84433
+  },
+  {
+    "name": "dogfood",
+    "category": "software-development",
+    "source": "builtin-modified",
+    "path": "software-development/dogfood",
+    "files": 3,
+    "bytes": 15499
+  },
+  {
+    "name": "email-inbox-triage",
+    "category": "email",
+    "source": "builtin-modified",
+    "path": "email/email-inbox-triage",
+    "files": 1,
+    "bytes": 5447
+  },
+  {
+    "name": "explain-interface",
+    "category": "creative",
+    "source": "local-or-hub",
+    "path": "creative/reference-driven-ui/references/jakub/explain-interface",
+    "files": 6,
+    "bytes": 31034
+  },
+  {
+    "name": "fastapi-api-hardening",
+    "category": "software-development",
+    "source": "local-or-hub",
+    "path": "software-development/fastapi-api-hardening",
+    "files": 1,
+    "bytes": 20508
+  },
+  {
+    "name": "findmy",
+    "category": "apple",
+    "source": "builtin-modified",
+    "path": "apple/findmy",
+    "files": 1,
+    "bytes": 3823
+  },
+  {
+    "name": "frontend-component-testing",
+    "category": "software-development",
+    "source": "local-or-hub",
+    "path": "software-development/frontend-component-testing",
+    "files": 1,
+    "bytes": 7956
+  },
+  {
+    "name": "gif-search",
+    "category": "media",
+    "source": "builtin-modified",
+    "path": "media/gif-search",
+    "files": 1,
+    "bytes": 2720
+  },
+  {
+    "name": "github",
+    "category": "software-development",
+    "source": "builtin-modified",
+    "path": "software-development/github",
+    "files": 17,
+    "bytes": 87522
+  },
+  {
+    "name": "google-workspace",
+    "category": "productivity",
+    "source": "builtin-modified",
+    "path": "productivity/google-workspace",
+    "files": 7,
+    "bytes": 90087
+  },
+  {
+    "name": "grounded-citations",
+    "category": "research",
+    "source": "builtin-modified",
+    "path": "research/grounded-citations",
+    "files": 5,
+    "bytes": 44841
+  },
+  {
+    "name": "hermes-agent",
+    "category": "autonomous-ai-agents",
+    "source": "builtin-modified",
+    "path": "autonomous-ai-agents/hermes-agent",
+    "files": 22,
+    "bytes": 124399
+  },
+  {
+    "name": "hermes-agent-skill-authoring",
+    "category": "software-development",
+    "source": "builtin-modified",
+    "path": "software-development/hermes-agent-skill-authoring",
+    "files": 1,
+    "bytes": 15705
+  },
+  {
+    "name": "hermes-custom-provider-setup",
+    "category": "software-development",
+    "source": "local-or-hub",
+    "path": "software-development/hermes-custom-provider-setup",
+    "files": 1,
+    "bytes": 2631
+  },
+  {
+    "name": "hermes-skill-library",
+    "category": "software-development",
+    "source": "local-or-hub",
+    "path": "software-development/hermes-skill-library",
+    "files": 2,
+    "bytes": 13639
+  },
+  {
+    "name": "himalaya",
+    "category": "email",
+    "source": "builtin-modified",
+    "path": "email/himalaya",
+    "files": 3,
+    "bytes": 16977
+  },
+  {
+    "name": "humanizer",
+    "category": "creative",
+    "source": "builtin-modified",
+    "path": "creative/humanizer",
+    "files": 2,
+    "bytes": 35550
+  },
+  {
+    "name": "imessage",
+    "category": "apple",
+    "source": "builtin-modified",
+    "path": "apple/imessage",
+    "files": 1,
+    "bytes": 2442
+  },
+  {
+    "name": "inspecting-hermes-desktop-dom",
+    "category": "software-development",
+    "source": "builtin-modified",
+    "path": "software-development/inspecting-hermes-desktop-dom",
+    "files": 1,
+    "bytes": 6250
+  },
+  {
+    "name": "interface-review",
+    "category": "creative",
+    "source": "local-or-hub",
+    "path": "creative/reference-driven-ui/references/jakub/interface-review",
+    "files": 4,
+    "bytes": 21446
+  },
+  {
+    "name": "landing-page-design",
+    "category": "creative",
+    "source": "local-or-hub",
+    "path": "creative/landing-page-design",
+    "files": 1,
+    "bytes": 22293
+  },
+  {
+    "name": "llm-wiki",
+    "category": "research",
+    "source": "builtin-modified",
+    "path": "research/llm-wiki",
+    "files": 1,
+    "bytes": 20121
+  },
+  {
+    "name": "manim-video",
+    "category": "creative",
+    "source": "builtin-modified",
+    "path": "creative/manim-video",
+    "files": 17,
+    "bytes": 100533
+  },
+  {
+    "name": "maps",
+    "category": "productivity",
+    "source": "builtin-modified",
+    "path": "productivity/maps",
+    "files": 2,
+    "bytes": 53383
+  },
+  {
+    "name": "mcp-tool-integration",
+    "category": "",
+    "source": "local-or-hub",
+    "path": "mcp-tool-integration",
+    "files": 3,
+    "bytes": 10203
+  },
+  {
+    "name": "meeting-action-items",
+    "category": "productivity",
+    "source": "builtin-modified",
+    "path": "productivity/meeting-action-items",
+    "files": 1,
+    "bytes": 3808
+  },
+  {
+    "name": "mock-to-live-integration",
+    "category": "software-development",
+    "source": "local-or-hub",
+    "path": "software-development/mock-to-live-integration",
+    "files": 3,
+    "bytes": 17915
+  },
+  {
+    "name": "node-inspect-debugger",
+    "category": "software-development",
+    "source": "builtin-modified",
+    "path": "software-development/node-inspect-debugger",
+    "files": 1,
+    "bytes": 11065
+  },
+  {
+    "name": "notion",
+    "category": "productivity",
+    "source": "builtin-modified",
+    "path": "productivity/notion",
+    "files": 2,
+    "bytes": 17642
+  },
+  {
+    "name": "obsidian",
+    "category": "note-taking",
+    "source": "builtin-modified",
+    "path": "note-taking/obsidian",
+    "files": 1,
+    "bytes": 3092
+  },
+  {
+    "name": "opencode",
+    "category": "autonomous-ai-agents",
+    "source": "builtin-modified",
+    "path": "autonomous-ai-agents/opencode",
+    "files": 1,
+    "bytes": 7297
+  },
+  {
+    "name": "p5js",
+    "category": "creative",
+    "source": "builtin-modified",
+    "path": "creative/p5js",
+    "files": 17,
+    "bytes": 165631
+  },
+  {
+    "name": "pdf",
+    "category": "productivity",
+    "source": "builtin-modified",
+    "path": "productivity/pdf",
+    "files": 21,
+    "bytes": 102214
+  },
+  {
+    "name": "popular-web-designs",
+    "category": "creative",
+    "source": "builtin-modified",
+    "path": "creative/popular-web-designs",
+    "files": 55,
+    "bytes": 874346
+  },
+  {
+    "name": "powerpoint",
+    "category": "productivity",
+    "source": "builtin-modified",
+    "path": "productivity/powerpoint",
+    "files": 8,
+    "bytes": 68927
+  },
+  {
+    "name": "product-price-monitor",
+    "category": "productivity",
+    "source": "builtin-modified",
+    "path": "productivity/product-price-monitor",
+    "files": 1,
+    "bytes": 4400
+  },
+  {
+    "name": "proposal-revision",
+    "category": "productivity",
+    "source": "local-or-hub",
+    "path": "productivity/proposal-revision",
+    "files": 2,
+    "bytes": 10918
+  },
+  {
+    "name": "python-debugpy",
+    "category": "software-development",
+    "source": "builtin-modified",
+    "path": "software-development/python-debugpy",
+    "files": 1,
+    "bytes": 14984
+  },
+  {
+    "name": "reference-driven-ui",
+    "category": "creative",
+    "source": "local-or-hub",
+    "path": "creative/reference-driven-ui",
+    "files": 68,
+    "bytes": 289759
+  },
+  {
+    "name": "reference-image-pixel-matching",
+    "category": "creative",
+    "source": "local-or-hub",
+    "path": "creative/reference-image-pixel-matching",
+    "files": 3,
+    "bytes": 38630
+  },
+  {
+    "name": "requesting-code-review",
+    "category": "software-development",
+    "source": "builtin-modified",
+    "path": "software-development/requesting-code-review",
+    "files": 1,
+    "bytes": 8781
+  },
+  {
+    "name": "sdlc-review",
+    "category": "devops",
+    "source": "builtin-modified",
+    "path": "devops/sdlc-review",
+    "files": 1,
+    "bytes": 9073
+  },
+  {
+    "name": "simplify-code",
+    "category": "software-development",
+    "source": "builtin-modified",
+    "path": "software-development/simplify-code",
+    "files": 1,
+    "bytes": 14696
+  },
+  {
+    "name": "single-file-web-artifacts",
+    "category": "creative",
+    "source": "local-or-hub",
+    "path": "creative/single-file-web-artifacts",
+    "files": 3,
+    "bytes": 24490
+  },
+  {
+    "name": "songsee",
+    "category": "media",
+    "source": "builtin-modified",
+    "path": "media/songsee",
+    "files": 1,
+    "bytes": 2336
+  },
+  {
+    "name": "songwriting-and-ai-music",
+    "category": "creative",
+    "source": "builtin-modified",
+    "path": "creative/songwriting-and-ai-music",
+    "files": 1,
+    "bytes": 10963
+  },
+  {
+    "name": "spike",
+    "category": "software-development",
+    "source": "builtin-modified",
+    "path": "software-development/spike",
+    "files": 1,
+    "bytes": 8723
+  },
+  {
+    "name": "state-machine",
+    "category": "creative",
+    "source": "local-or-hub",
+    "path": "creative/reference-driven-ui/references/jakub/state-machine",
+    "files": 3,
+    "bytes": 9378
+  },
+  {
+    "name": "subagent-driven-development",
+    "category": "",
+    "source": "local-or-hub",
+    "path": "subagent-driven-development",
+    "files": 1,
+    "bytes": 5956
+  },
+  {
+    "name": "systematic-debugging",
+    "category": "software-development",
+    "source": "builtin-modified",
+    "path": "software-development/systematic-debugging",
+    "files": 1,
+    "bytes": 14059
+  },
+  {
+    "name": "taste",
+    "category": "creative",
+    "source": "local-or-hub",
+    "path": "creative/taste",
+    "files": 7,
+    "bytes": 61157
+  },
+  {
+    "name": "teams-meeting-pipeline",
+    "category": "productivity",
+    "source": "builtin-modified",
+    "path": "productivity/teams-meeting-pipeline",
+    "files": 1,
+    "bytes": 7206
+  },
+  {
+    "name": "test-driven-development",
+    "category": "software-development",
+    "source": "builtin-modified",
+    "path": "software-development/test-driven-development",
+    "files": 1,
+    "bytes": 10300
+  },
+  {
+    "name": "ui-ux-pro-max",
+    "category": "creative",
+    "source": "local-or-hub",
+    "path": "creative/ui-ux-pro-max",
+    "files": 76,
+    "bytes": 3812104
+  },
+  {
+    "name": "variant",
+    "category": "creative",
+    "source": "local-or-hub",
+    "path": "creative/reference-driven-ui/references/jakub/variant",
+    "files": 3,
+    "bytes": 10042
+  },
+  {
+    "name": "video-demo-production",
+    "category": "productivity",
+    "source": "local-or-hub",
+    "path": "productivity/video-demo-production",
+    "files": 1,
+    "bytes": 5886
+  },
+  {
+    "name": "website-mirroring",
+    "category": "web",
+    "source": "local-or-hub",
+    "path": "web/website-mirroring",
+    "files": 5,
+    "bytes": 34747
+  },
+  {
+    "name": "weekly-review-planning",
+    "category": "productivity",
+    "source": "builtin-modified",
+    "path": "productivity/weekly-review-planning",
+    "files": 1,
+    "bytes": 3975
+  },
+  {
+    "name": "xlsx",
+    "category": "productivity",
+    "source": "builtin-modified",
+    "path": "productivity/xlsx",
+    "files": 11,
+    "bytes": 86607
+  },
+  {
+    "name": "xurl",
+    "category": "social-media",
+    "source": "builtin-modified",
+    "path": "social-media/xurl",
+    "files": 1,
+    "bytes": 16345
+  },
+  {
+    "name": "youtube-content",
+    "category": "media",
+    "source": "builtin-modified",
+    "path": "media/youtube-content",
+    "files": 3,
+    "bytes": 9736
+  }
+]
