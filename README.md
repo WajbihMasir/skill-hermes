@@ -41,6 +41,18 @@ reproduce the registry-installed set:
 The file `hermes-skills-snapshot.json` in this bundle is exactly that: the one
 hub/URL skill in the source profile (`landing-page-design`).
 
+
+## Import straight from this GitHub repo
+
+    git clone --depth 1 https://github.com/WajbihMasir/skill-hermes.git
+    # then copy the category folders into your skills dir:
+    #   Linux/macOS: ~/.hermes/skills
+    #   Windows:     %LOCALAPPDATA%\hermes\skills
+    cp -r skill-hermes/* "$HOME/.hermes/skills/" 2>/dev/null || true
+    # Windows PowerShell:
+    #   Copy-Item .\skill-hermes\* "$env:LOCALAPPDATA\hermes\skills\" -Recurse -Force
+    hermes skills list
+
 ## Notes
 - `MANIFEST.json` lists every skill: name, category, path, file count, bytes.
 - Builtin skills are re-seeded by Hermes itself on a fresh profile; copying them
